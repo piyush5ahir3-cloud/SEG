@@ -1,0 +1,42 @@
+[
+  {
+    "examId": "iHVJVMncsIifPRJPwC82",
+    "examTitle": "CCE 2026 26 09 2026 Shift 1",
+    "fileName": "exam_iHVJVMncsIifPRJPwC82_content.json",
+    "contentUrl": "https://piyush5ahir3-cloud.github.io/SEG/exam_iHVJVMncsIifPRJPwC82_content.json",
+    "totalQuestions": 150,
+    "price": 5
+  },
+  {
+    "examId": "1HslCHBDBkdgQK5Rwb8I",
+    "examTitle": "CCE 2026 26 09 2026 Shift 2",
+    "fileName": "exam_1HslCHBDBkdgQK5Rwb8I_content.json",
+    "contentUrl": "https://piyush5ahir3-cloud.github.io/SEG/exam_1HslCHBDBkdgQK5Rwb8I_content.json",
+    "totalQuestions": 150,
+    "price": 5
+  },
+  {
+    "examId": "Fthnx1HNOq8VxbM9HFDl",
+    "examTitle": "CCE 2026 26 09 2026 Shift 3",
+    "fileName": "exam_Fthnx1HNOq8VxbM9HFDl_content.json",
+    "contentUrl": "https://piyush5ahir3-cloud.github.io/SEG/exam_Fthnx1HNOq8VxbM9HFDl_content.json",
+    "totalQuestions": 150,
+    "price": 5
+  },
+  {
+    "examId": "BUB5kjsX1tvz6bmWQxp8",
+    "examTitle": "CCE 2026 27 09 2026 Shift 1",
+    "fileName": "exam_BUB5kjsX1tvz6bmWQxp8_content.json",
+    "contentUrl": "https://piyush5ahir3-cloud.github.io/SEG/exam_BUB5kjsX1tvz6bmWQxp8_content.json",
+    "totalQuestions": 150,
+    "price": 5
+  },
+  {
+    "examId": "0lv4TwFU4H0ujRgLb8BD",
+    "examTitle": "CCE 2026 27 09 2026 Shift 2",
+    "fileName": "exam_0lv4TwFU4H0ujRgLb8BD_content.json",
+    "contentUrl": "https://piyush5ahir3-cloud.github.io/SEG/exam_0lv4TwFU4H0ujRgLb8BD_content.json",
+    "totalQuestions": 150,
+    "price": 5
+  }
+]
